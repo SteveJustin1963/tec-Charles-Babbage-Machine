@@ -9,10 +9,20 @@ The Analytical Engine was a general-purpose, completely program-controlled, mech
 The store intended to be large enough to contain 1,000 50-digit numbers, which was more than any computer constructed before 1960 could store.
 No evidence is there that anyone had ever thought about, let alone attempted to create, such a machine before Babbage.
 
+How was Analytical Engine made?
+There is no evidence that anyone before Babbage had ever conceived of such a device, let alone attempted to build one. The machine was designed to consist of four components: the mill, the store, the reader, and the printer. These components are the essential components of every computer today.
+
+How fast is Analytical Engine?
+Computers also measure their speeds by clock cycles per second, measured in Hertz. The Analytical Engine could run at about 7 Hertz, which given its mechanical construction was very fast (“Babbage Analytical Engine…”).
+
+
 
 ### Ref
 - https://en.wikipedia.org/wiki/Analytical_Engine
 - https://en.wikipedia.org/wiki/Charles_Babbage
 - https://en.wikipedia.org/wiki/Difference_engine
 - https://history-computer.com/charles-babbage-analytical-engine/
+- https://www.newscientist.com/article/mg20827915-500-lets-build-babbages-ultimate-mechanical-computer
+- https://www.clivemaxfield.com/diycalculator/popup-h-mechcomp.shtml
 - 
+
