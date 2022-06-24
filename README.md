@@ -16,7 +16,7 @@ How fast is Analytical Engine?
 Computers also measure their speeds by clock cycles per second, measured in Hertz. The Analytical Engine could run at about 7 Hertz, which given its mechanical construction was very fast (“Babbage Analytical Engine…”).
 
 ### this project
-there are TOO many parts to build a CBM machine so lets ditch it. To keep the mechanical clickety-clack, lets build a solenoid relay gate computer. https://github.com/SteveJustin1963/tec-CPU-RELAY
+there are TOO many parts to build a CBM machine so lets ditch it. To keep the mechanical clickety-clack, lets build a solenoid relay gate computer and still use some rotating parts. https://github.com/SteveJustin1963/tec-CPU-RELAY
 
 
 ### Ref
